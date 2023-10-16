@@ -1,0 +1,15 @@
+{
+    "User 1": {
+        "Id": 1,
+        "month": "fredrick",
+        "Contributions": {
+            "2023": {
+                "Nov": ["Amount: 400", "pledge: 0", "mode: b"],
+                "Dec": ["Amount: 6000", "pledge: 400", "mode: c"]
+            }
+        }
+    }
+}
+
+
+
